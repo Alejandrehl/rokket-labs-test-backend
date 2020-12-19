@@ -1,6 +1,8 @@
 # Rokket Labs Backend Test
 
-### How to test project?
+### How to try project?
+
+The database is in Mongo Atlas so it is only necessary to install the dependencies and run the project.
 
 1. `git clone git@github.com:Alejandrehl/rokket-labs-test-backend.git`
 2. `cd rokket-labs-test-backend`
