@@ -14,3 +14,4 @@
 3. [Express Validator](https://yarnpkg.com/package/express-validator)
 4. [Mongoose](https://yarnpkg.com/package/mongoose)
 5. [Nodemon](https://yarnpkg.com/package/nodemon)
+6. [Cors](https://yarnpkg.com/package/cors)
