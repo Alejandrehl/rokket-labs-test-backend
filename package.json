@@ -9,5 +9,14 @@
   "scripts": {
     "start": "node server.js",
     "server": "nodemon server.js"
+  },
+  "dependencies": {
+    "config": "^3.3.3",
+    "express": "^4.17.1",
+    "express-validator": "^6.8.0",
+    "mongoose": "^5.11.8"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
   }
 }
