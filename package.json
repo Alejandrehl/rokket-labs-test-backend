@@ -1,0 +1,13 @@
+{
+  "name": "rokket-labs-test-backend",
+  "version": "1.0.0",
+  "description": "Rokket Labs Backend Test",
+  "main": "server.js",
+  "repository": "https://github.com/Alejandrehl/rokket-labs-test-backend",
+  "author": "Alejandro Exequiel Hernández Lara",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  }
+}
